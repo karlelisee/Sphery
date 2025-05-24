@@ -1,0 +1,18 @@
+current directory: /Users/karl-eliseekoffi/Desktop/Projects/Sphery/Sphery/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/karl-eliseekoffi/Desktop/Projects/Sphery/Sphery/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250524-15148-lrliln sitelibdir\=./.gem.20250524-15148-lrliln clean
+
+current directory: /Users/karl-eliseekoffi/Desktop/Projects/Sphery/Sphery/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250524-15148-lrliln sitelibdir\=./.gem.20250524-15148-lrliln
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/karl-eliseekoffi/Desktop/Projects/Sphery/Sphery/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250524-15148-lrliln sitelibdir\=./.gem.20250524-15148-lrliln install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250524-15148-lrliln
+
+current directory: /Users/karl-eliseekoffi/Desktop/Projects/Sphery/Sphery/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250524-15148-lrliln sitelibdir\=./.gem.20250524-15148-lrliln clean
